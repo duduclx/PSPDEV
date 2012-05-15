@@ -1,0 +1,11 @@
+PSPSDK from PSPDEV.
+
+containt:
+.prxtool
+.psp-ports
+.psplibraries
+.psplinkusb
+.pspsdk
+.psptoolchain
+
+You can install it from "openDevScript" available on my gihub.
